@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace CarParkSimulator {
+    class Ticket {
+
+        public bool Paid {
+            get;
+            set;
+        }
+    }
+}

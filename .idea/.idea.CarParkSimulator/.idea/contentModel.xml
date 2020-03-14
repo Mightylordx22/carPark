@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Adam\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Adam\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CarParkSimulator.-325536132.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Adam\Desktop\Coding\C#\carPark" t="IncludeFlat">
+      <e p="CarParkSimulator" t="IncludeRecursive">
+        <e p="ActiveTickets.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="Barrier.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CarPark.cs" t="Include" />
+        <e p="CarParkSimulator.csproj" t="IncludeRecursive" />
+        <e p="EntrySensor.cs" t="Include" />
+        <e p="ExitSensor.cs" t="Include" />
+        <e p="FullSign.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Sensor.cs" t="Include" />
+        <e p="SimulatorInterface.cs" t="Include" />
+        <e p="SimulatorInterface.Designer.cs" t="Include" />
+        <e p="SimulatorInterface.resx" t="Include" />
+        <e p="Ticket.cs" t="Include" />
+        <e p="TicketMachine.cs" t="Include" />
+        <e p="TicketValidator.cs" t="Include" />
+      </e>
+      <e p="CarParkSimulator.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
